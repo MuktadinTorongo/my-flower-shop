@@ -1,28 +1,32 @@
 
-
+.banner{
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+    background-color: rgba(229, 84, 115, 0.10);
+    width: 1990px;
+    height: 750px;
+    font-family: 'Franklin Gothic Medium';
+}
 .main-text{
     font-size: 80px;
     color: #272727;
     font-weight: 800;
-    font-family: 'Franklin Gothic Medium';
 }
-
+.banner .flower{
+    width: 600px;
+    height: 750px;
+    position: 900px right;
+    padding-left: 350px;
+}
 .btn{
-    display: inline-flex;
-    padding: 20px 43px;
-    gap: 10px;
+    padding: 15px 33px;
     border-radius: 8px;
     background: #E55473;
     color: white;
     
 }
-.banner{
-    padding: 30px 30px 1500px;
-    display: flex;
-    align-items: center;
-}
-.banner .flower{
-    width: 600px;
-    height: 750px;
-    position: 400px right;
+.banner-two{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
 }
