@@ -4,9 +4,10 @@
     align-items: center;
     padding-left: 150px;
     background-color: rgba(229, 84, 115, 0.10);
-    width: 1990px;
+    width: 1760px;
     height: 750px;
     font-family: 'Franklin Gothic Medium';
+    
 }
 .main-text{
     font-size: 80px;
@@ -26,7 +27,64 @@
     color: white;
     
 }
+
+/*section one*/
+
 .banner-two{
     text-align: center;
     font-family: 'Franklin Gothic Medium';
+    margin: 150px;
+}
+.banner-two .secound-text{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;    
+    
+    font-weight: 800;
+}
+.Our-Featured-Flowers{
+    display: flex;
+    width: 464px;
+    height: 538px;
+    border-radius: 400px 400px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    align-items: center;
+    
+}
+.section-one{
+    display: flex;
+    margin-left: 100px;
+    
+}
+.banner-two .our-images{
+    align-items: center;
+}
+
+/*secound-section*/
+.secound-section{
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1760px;
+    height: 500px;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+
+}
+.secound-section-button{
+    padding: 15px 33px;
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+}
+.secound-section .secound-flower{
+    width: 318px;
+    height: 420px;
+    position: 900px right;
+    padding-left: 350px;
+
+}
+.text-color{
+    color: #E55473;
 }
