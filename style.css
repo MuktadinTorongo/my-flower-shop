@@ -92,3 +92,32 @@
 
 /*third section*/
 
+.footer{
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+    position: absolute;
+}
+.footer-section{
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 48px;
+    text-align: center;
+    
+}
+.footer-section-text{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.last-text{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 16px;
+    font-weight: 400;
+    
+}
