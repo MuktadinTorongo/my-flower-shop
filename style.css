@@ -61,6 +61,7 @@
 }
 
 /*secound-section*/
+
 .secound-section{
     display: flex;
     align-items: center;
@@ -88,3 +89,6 @@
 .text-color{
     color: #E55473;
 }
+
+/*third section*/
+
