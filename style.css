@@ -95,8 +95,9 @@
 .footer{
     width: 1922px;
     height: 449px;
-    background: #111010;
-    position: absolute;
+    background:#111010;
+    
+    
 }
 .footer-section{
     color: white;
@@ -120,4 +121,8 @@
     font-size: 16px;
     font-weight: 400;
     
+}
+.footer-text-style{
+    position: relative;
+    top: 150px;
 }
